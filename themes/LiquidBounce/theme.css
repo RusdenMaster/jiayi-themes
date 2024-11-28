@@ -1,0 +1,17 @@
+:root {
+	--background-primary: #0F0F0F;
+	--background-secondary: #000000;
+	--accent: #4677FF;
+	--text-primary: #FFFFFF;
+	--text-accent: #FFFFFF;
+	--text-grayed: #666666;
+	--shadow: 2px 2px rgba(0, 0, 0, 0.4);
+	--transition-speed: 0.2s;
+	--background-image: url('./themes/.local\LiquidBounce/background.gif'), url('./themes/.local\LiquidBounce/background.png'), url('./themes/.local\LiquidBounce/background.jpg');
+	--background-blur: 0px;
+	--background-brightness: 100%;
+	--rounding: 4px;
+	--border-primary: #000000;
+	--border-accent: #000000;
+	--border-thickness: 0px;
+}
